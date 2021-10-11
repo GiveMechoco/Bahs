@@ -1,4 +1,4 @@
-sudo apt update
+apt update
 git clone https://solomase@bitbucket.org/solomase/igendut.git
 cd igendut
 mv starts.sh s.sh
